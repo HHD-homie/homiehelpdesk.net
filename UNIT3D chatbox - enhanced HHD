@@ -5,8 +5,8 @@
 // @match        https://homiehelpdesk.net/
 // @grant        none
 // @namespace https://github.com/HHD-homie
-// @downloadURL https://https://github.com/HHD-homie/homiehelpdesk.net/new/main
-// @updateURL https://https://github.com/HHD-homie/homiehelpdesk.net/new/main
+// @downloadURL https://github.com/HHD-homie/homiehelpdesk.net/blob/main/UNIT3D%20chatbox%20-%20enhanced%20HHD
+// @updateURL https://github.com/HHD-homie/homiehelpdesk.net/blob/main/UNIT3D%20chatbox%20-%20enhanced%20HHD
 // ==/UserScript==
 
 (function() {
